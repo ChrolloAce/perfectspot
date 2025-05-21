@@ -26,7 +26,7 @@ export default function PrivacyPolicy() {
             <ul className="list-disc pl-6 text-gray-600 space-y-2">
               <li>Identity Data: includes first name, last name, username or similar identifier</li>
               <li>Contact Data: includes email address and phone number</li>
-              <li>Location Data: includes your current location when using the app. This is essential for the app's core functionality to find places near you. We only collect location data when you actively use the app and have granted permission. We do not track your location when the app is not in use.</li>
+              <li>Location Data: includes your current location when using the app. This is essential for the app&apos;s core functionality to find places near you. We only collect location data when you actively use the app and have granted permission. We do not track your location when the app is not in use.</li>
               <li>Usage Data: includes information about how you use our app and services</li>
               <li>Technical Data: includes internet protocol (IP) address, browser type and version, time zone setting and location</li>
             </ul>

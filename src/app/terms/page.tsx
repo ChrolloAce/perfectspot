@@ -22,11 +22,11 @@ export default function TermsOfService() {
           <section className="mb-8">
             <h2 className="text-2xl font-semibold text-gray-900 mb-4">2. App Store Terms</h2>
             <p className="text-gray-600 mb-4">
-              Perfect Spot is distributed through the Apple App Store and is subject to Apple's terms and conditions.
+              Perfect Spot is distributed through the Apple App Store and is subject to Apple&apos;s terms and conditions.
               By downloading and using our app, you agree to:
             </p>
             <ul className="list-disc pl-6 text-gray-600 space-y-2">
-              <li>Comply with Apple's App Store Terms of Service</li>
+              <li>Comply with Apple&apos;s App Store Terms of Service</li>
               <li>Use the app only on Apple-branded products that you own or control</li>
               <li>Accept that Apple has no obligation to furnish any maintenance and support services</li>
               <li>Acknowledge that Apple is not responsible for addressing any claims by you or any third party</li>
@@ -86,11 +86,11 @@ export default function TermsOfService() {
           <section className="mb-8">
             <h2 className="text-2xl font-semibold text-gray-900 mb-4">6. Disclaimer</h2>
             <p className="text-gray-600">
-              The materials on Perfect Spot are provided on an 'as is' basis. Perfect Spot makes no
+              The materials on Perfect Spot are provided on an &apos;as is&apos; basis. Perfect Spot makes no
               warranties, expressed or implied, and hereby disclaims and negates all other warranties
               including, without limitation, implied warranties or conditions of merchantability, fitness
               for a particular purpose, or non-infringement of intellectual property or other violation of rights.
-              Apple is not responsible for the app's content, maintenance, or support.
+              Apple is not responsible for the app&apos;s content, maintenance, or support.
             </p>
           </section>
 
@@ -122,7 +122,7 @@ export default function TermsOfService() {
               Perfect Spot has not reviewed all of the sites linked to its website or mobile application
               and is not responsible for the contents of any such linked site. The inclusion of any link
               does not imply endorsement by Perfect Spot of the site. Use of any such linked website is
-              at the user's own risk.
+              at the user&apos;s own risk.
             </p>
           </section>
 
