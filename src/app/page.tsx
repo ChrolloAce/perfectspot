@@ -1,5 +1,4 @@
 import Navigation from '@/components/Navigation';
-import Image from 'next/image';
 
 export default function Home() {
   return (
@@ -136,8 +135,12 @@ export default function Home() {
               <h3 className="text-lg font-semibold text-gray-900 mb-4">Contact</h3>
               <p className="text-gray-600">
                 Have questions? Reach out to us at{' '}
-                <a href="mailto:support@perfectspot.app" className="text-blue-600 hover:text-blue-700">
-                  support@perfectspot.app
+                <a href="mailto:ernesot@maktubtechnologies.com" className="text-blue-600 hover:text-blue-700">
+                  ernesot@maktubtechnologies.com
+                </a>
+                {' '}or call us at{' '}
+                <a href="tel:7866411493" className="text-blue-600 hover:text-blue-700">
+                  (786) 641-1493
                 </a>
               </p>
             </div>
